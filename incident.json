@@ -1,0 +1,23 @@
+{
+  "date_time": "",
+  "gts_phone": "1096",
+  "gts_fio": "Тревожная кнопка",
+  "gts_block": " ",
+  "gts_home": " ",
+  "gts_flat": " ",
+  "descr_event": "Срабатывание тревожной кнопки",
+  "street": "Текели",
+  "cross_street": "Ауэзова ",
+  "numeric_home": "1",
+  "block": "Е",
+  "numeric_flat": " ",
+  "descr_place": " ",
+  "status_card": 0,
+  "xcoord": 45.8608355,
+  "ycoord": 78.7675272,
+  "user_id": "СУПЕР АДМИН",
+  "category_code": 24,
+  "region_id": 5,
+  "Sid": 133,
+  "Gts_street": " "
+}

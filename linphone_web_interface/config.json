@@ -1,0 +1,11 @@
+{
+    "server": "172.16.101.2",
+    "username": "1100",
+    "password": "5229eabfc",
+    "operator": "10000",
+    "master_volume": null,
+    "pcm_volume": null,
+    "output_device": "rockchiprk809 [rockchip-rk809], device 0",
+    "input_device": "rockchiprk809 [rockchip-rk809], device 0",
+    "video_device": null
+}

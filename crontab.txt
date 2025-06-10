@@ -1,0 +1,3 @@
+@reboot gpio mode 7 up
+@reboot linphonecsh init -c /home/orangepi/.linphonerc -a -C
+@reboot sh /home/orangepi/g.sh
