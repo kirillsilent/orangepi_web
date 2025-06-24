@@ -209,6 +209,7 @@ def index():
     ping_successful = ping_server()
     return render_template('index.html', ping_successful=ping_successful)
 
+
 @app.route('/settings', methods=['GET', 'POST'])
 def settings():
     if request.method == 'POST':
